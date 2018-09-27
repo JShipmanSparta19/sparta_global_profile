@@ -8,11 +8,12 @@ Current MVP:
 Progress:
 * Profile page has been updated with Responsive CSS
 * Added Photo
+* Added a short introduction
 * Name, Title, University and Employment History information have been filled in
 * Added Skills more relevant to me
 
 
 To Be Completed:
-* Include a short introduction to go in the header
+* Introduction could use some more polish
 * Add more Skills
 * Update Academy Experience with information relevant to me
