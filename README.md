@@ -7,11 +7,11 @@ Current MVP:
 
 Progress:
 * Profile page has been updated with Responsive CSS
+* Added Photo
 * Name, Title, University and Employment History information have been filled in
 
 
 To Be Completed:
-* Change Photo to my own
 * Include a short introduction to go in the header
 * Exchange filler skills for ones more relevant to me
 * Update Academy Experience with information relevant to me
