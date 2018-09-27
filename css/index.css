@@ -1,0 +1,57 @@
+header, section {
+	display: inline-block;
+}
+
+.left {
+	float: left;
+	width: 35%;
+}
+
+.right {
+	float: right;
+	width: 60%;
+}
+
+#headshot {
+	display: block;
+	text-align: center;
+	margin: 50px auto 0;
+	border: 2px solid #E13A63;
+}
+
+.experience {
+	display: inline-block;
+	clear: both;
+	margin-top: 30px;
+	text-align: center;
+}
+
+header, .experience {
+	border: 2px solid #E13A63;
+	padding: 10px;
+}
+
+@media only screen and (max-width: 780px) {
+	.left{
+		float: none;
+		display: block;
+		width: 100%;
+	}
+	.right{
+		float: none;
+		display: block;
+		width: 100%;
+	}
+	.main-content{
+		margin: 2%;
+	}
+	header, .experience{
+		border: none;
+	}
+}
+@media only screen and (max-width: 780px) and (min-width: 600px) {
+	#headshot{
+		width: 318px;
+		height: 300px;
+	}
+}
