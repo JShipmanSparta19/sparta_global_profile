@@ -51,7 +51,7 @@ header, .experience {
 }
 @media only screen and (max-width: 780px) and (min-width: 600px) {
 	#headshot{
-		width: 300px;
+		width: 318px;
 		height: 300px;
 	}
 }
